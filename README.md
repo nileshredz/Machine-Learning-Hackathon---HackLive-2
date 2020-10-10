@@ -1,4 +1,4 @@
-# Machine-Learning-Hackathon - HackLive-2 👨‍💻📈
+# Predict likes on YouTube using LightGBM - HackLive-2 👨‍💻📈
 
 HackLive is an Machine Learning Hackathon organised by <a href = "https://datahack.analyticsvidhya.com/contest/all/"><strong>Analytics Vidhya</strong></a> 
 
